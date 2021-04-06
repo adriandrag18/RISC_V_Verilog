@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Dec  5 15:51:59 2020
+# Process ID: 23060
+# Current directory: D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7932 D:\Downloads\IF_ID-Vivado_fara_Control\IF_ID\IF_ID.xpr
+# Log file: D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID/vivado.log
+# Journal file: D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID/IF_ID.xpr
+update_compile_order -fileset sources_1
+close [ open D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID/IF_ID.srcs/sources_1/new/ALUcontrol.v w ]
+add_files D:/Downloads/IF_ID-Vivado_fara_Control/IF_ID/IF_ID.srcs/sources_1/new/ALUcontrol.v
+update_compile_order -fileset sources_1
